@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start":"node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanStelmakh/nodejs-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanStelmakh/nodejs-calculator/issues"
+  },
+  "homepage": "https://github.com/DanStelmakh/nodejs-calculator#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
