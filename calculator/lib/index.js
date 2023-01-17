@@ -1,6 +1,5 @@
-const calc = require("./calculate");
 const { operation, numbers } = require("./getData");
-
+const calc = require("./calc");
 module.exports = {
   calc,
   operation,
